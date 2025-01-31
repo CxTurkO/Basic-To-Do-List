@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="todo">
+            <h2>To-Do List <img src="Images/image.png" width="60" height="60"></h2>
+            <div class="row">
+                <input type="text" id="input-box" placeholder="Add Your Text">
+                <button onclick="AddTask()">Add</button>
+            </div>
+            <ul id="list-container">
+
+            </ul>
+
+        </div>
+    </div>
+    <script src="script.js"></script>
+    <input type="text" id="input-box" placeholder="Add Your Text" maxlength="50">
+
+
+    <div id="popup" class="popup">
+        <div class="popup-content">
+            <p id="popup-message">Error: Task cannot be empty or just spaces!</p>
+            <button onclick="closePopup()">OK</button>
+        </div>
+    </div>
+
+</body>
+
+</html>
