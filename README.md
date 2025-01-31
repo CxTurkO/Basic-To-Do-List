@@ -10,9 +10,10 @@ A simple and functional to-do list app built with HTML, CSS, and JavaScript. Use
 
 ## How to Use
 1. Open `index.html` in your browser.
-2. Enter a task in the input box and set a deadline (optional).
+2. Enter a task in the input box.
 3. Click **Add** to add the task to the list.
 4. Mark tasks as complete or delete them as needed.
+5. Store previous activities and the last thing in the Input Box.
 
 ## Technologies Used
 - HTML, CSS, JavaScript.
