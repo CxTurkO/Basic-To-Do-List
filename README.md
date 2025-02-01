@@ -8,6 +8,10 @@ A simple and functional to-do list app built with HTML, CSS, and JavaScript. Use
 - Persistent storage with localStorage.
 - Clean black-and-white minimalist design.
 
+![Ekran görüntüsü 2025-02-01 172253](https://github.com/user-attachments/assets/4f2f8e7c-b13e-4559-b77e-d3da790707f7)
+![Ekran görüntüsü 2025-02-01 172247](https://github.com/user-attachments/assets/cc119c20-37b6-4820-b5e2-fd1835b38959)
+
+
 ## How to Use
 1. Open `index.html` in your browser.
 2. Enter a task in the input box.
@@ -18,4 +22,6 @@ A simple and functional to-do list app built with HTML, CSS, and JavaScript. Use
 ## Technologies Used
 - HTML, CSS, JavaScript.
 
+
 Created by [CxTurkO](https://github.com/CxTurkO). 
+
